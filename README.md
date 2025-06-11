@@ -20,7 +20,8 @@ This is a simple Rock-Paper-Scissors web-based game where users can play against
 3. Start playing!
 
 ## 📷 Screenshot
-![Game UI](![Uploading Screenshot 2025-06-11 152311.png…]()
+![Game UI]![Uploading Screenshot 2025-06-11 152311.png…]()
+()
 ) <!-- optional if you add an image later -->
 
 ## 📂 Folder Structure
